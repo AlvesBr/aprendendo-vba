@@ -3,3 +3,6 @@ ALT + F11 - Abrir o editor do VBA
 F5 - Executa a macro
 
 F8 - executa a macro de forma pausada
+
+
+f5 - estando na plnilha ir para a1048576
